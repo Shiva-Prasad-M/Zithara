@@ -273,6 +273,3 @@ GOOGLE_CLIENT_SECRET=your_google_client_secret
 4. Push to the branch
 5. Create a Pull Request
 
-## 📝 License
-
-This project is MIT licensed.
